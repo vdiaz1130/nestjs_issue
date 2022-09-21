@@ -7,7 +7,7 @@
     "experimentalDecorators": true,
     "importHelpers": true,
     "lib": ["es2017", "dom"],
-    "module": "esnext",
+    "module": "ESNext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "rootDir": ".",
@@ -16,8 +16,9 @@
     "sourceMap": true,
     "strictPropertyInitialization": false,
     "target": "es2015",
-    "paths": {
-    }
+    
+
+    "paths": {}
   },
   "exclude": ["node_modules", "tmp"]
 }
